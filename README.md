@@ -1,6 +1,6 @@
-# 🎁 Secret-Friend
+# 🎁 Amigo Secreto
 
-O **Secret-Friend** é um projeto desenvolvido com **JavaScript, HTML e CSS**, que facilita a realização de sorteios de amigo secreto de forma simples e interativa.
+O **Amigo Secreto** é um projeto desenvolvido com **JavaScript, HTML e CSS**, que facilita a realização de sorteios de amigo secreto de forma simples e interativa.
 
 ---
 
@@ -10,14 +10,12 @@ O **Secret-Friend** é um projeto desenvolvido com **JavaScript, HTML e CSS**, q
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Funcionalidades](#-funcionalidades)
 - [Como Usar](#-como-usar)
-- [Hospedagem](#-hospedagem)
-- [Contato](#-contato)
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-O **Secret-Friend** foi criado para tornar o processo de sorteio de amigo secreto mais prático e acessível, eliminando a necessidade de papel e tornando a experiência mais dinâmica.
+O **Amigo Secreto** foi criado para tornar o processo de sorteio de amigo secreto mais prático e acessível, eliminando a necessidade de papel e tornando a experiência mais dinâmica.
 
 ---
 
@@ -46,16 +44,3 @@ O **Secret-Friend** foi criado para tornar o processo de sorteio de amigo secret
 4. O resultado será exibido na tela, mostrando quem tirou quem.
 
 ---
-
-## 🌍 Hospedagem
-
-O projeto está disponível online e pode ser acessado pelo seguinte link:
-[Secret-Friend no Vercel](https://secret-friend-eta.vercel.app/)
-
----
-
-## 📩 Contato
-
-Se tiver alguma dúvida ou sugestão, entre em contato:
-📧 **E-mail:** [asilvaperoba@gmail.com](mailto:asilvaperoba@gmail.com)
-
